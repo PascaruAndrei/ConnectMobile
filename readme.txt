@@ -138,4 +138,4 @@ Envo Shop is distributed under the terms of the GNU GPL (http://www.gnu.org/lice
 * Fixed CSS styling issues
 
 = Version 1.0 =
-* Initial release
+RaduTest* Initial release
